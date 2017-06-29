@@ -1,0 +1,5 @@
+c:\users\dimit\documents\visual studio 2017\Projects\DefiningClassesExercise\Rectangle Intersection\bin\Debug\Rectangle Intersection.exe.config
+c:\users\dimit\documents\visual studio 2017\Projects\DefiningClassesExercise\Rectangle Intersection\bin\Debug\Rectangle Intersection.exe
+c:\users\dimit\documents\visual studio 2017\Projects\DefiningClassesExercise\Rectangle Intersection\bin\Debug\Rectangle Intersection.pdb
+c:\users\dimit\documents\visual studio 2017\Projects\DefiningClassesExercise\Rectangle Intersection\obj\Debug\Rectangle Intersection.exe
+c:\users\dimit\documents\visual studio 2017\Projects\DefiningClassesExercise\Rectangle Intersection\obj\Debug\Rectangle Intersection.pdb

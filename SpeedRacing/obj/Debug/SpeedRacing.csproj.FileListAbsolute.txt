@@ -1,0 +1,6 @@
+c:\users\dimit\documents\visual studio 2017\Projects\DefiningClassesExercise\SpeedRacing\bin\Debug\SpeedRacing.exe.config
+c:\users\dimit\documents\visual studio 2017\Projects\DefiningClassesExercise\SpeedRacing\bin\Debug\SpeedRacing.exe
+c:\users\dimit\documents\visual studio 2017\Projects\DefiningClassesExercise\SpeedRacing\bin\Debug\SpeedRacing.pdb
+c:\users\dimit\documents\visual studio 2017\Projects\DefiningClassesExercise\SpeedRacing\obj\Debug\SpeedRacing.csprojResolveAssemblyReference.cache
+c:\users\dimit\documents\visual studio 2017\Projects\DefiningClassesExercise\SpeedRacing\obj\Debug\SpeedRacing.exe
+c:\users\dimit\documents\visual studio 2017\Projects\DefiningClassesExercise\SpeedRacing\obj\Debug\SpeedRacing.pdb

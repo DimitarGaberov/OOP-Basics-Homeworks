@@ -1,0 +1,5 @@
+c:\users\dimit\documents\visual studio 2017\Projects\DefiningClassesExercise\DateModifier\bin\Debug\DateModifier.exe.config
+c:\users\dimit\documents\visual studio 2017\Projects\DefiningClassesExercise\DateModifier\bin\Debug\DateModifier.exe
+c:\users\dimit\documents\visual studio 2017\Projects\DefiningClassesExercise\DateModifier\bin\Debug\DateModifier.pdb
+c:\users\dimit\documents\visual studio 2017\Projects\DefiningClassesExercise\DateModifier\obj\Debug\DateModifier.exe
+c:\users\dimit\documents\visual studio 2017\Projects\DefiningClassesExercise\DateModifier\obj\Debug\DateModifier.pdb

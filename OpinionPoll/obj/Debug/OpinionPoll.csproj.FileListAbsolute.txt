@@ -1,0 +1,6 @@
+c:\users\dimit\documents\visual studio 2017\Projects\DefiningClassesExercise\OpinionPoll\bin\Debug\OpinionPoll.exe.config
+c:\users\dimit\documents\visual studio 2017\Projects\DefiningClassesExercise\OpinionPoll\bin\Debug\OpinionPoll.exe
+c:\users\dimit\documents\visual studio 2017\Projects\DefiningClassesExercise\OpinionPoll\bin\Debug\OpinionPoll.pdb
+c:\users\dimit\documents\visual studio 2017\Projects\DefiningClassesExercise\OpinionPoll\obj\Debug\OpinionPoll.csprojResolveAssemblyReference.cache
+c:\users\dimit\documents\visual studio 2017\Projects\DefiningClassesExercise\OpinionPoll\obj\Debug\OpinionPoll.exe
+c:\users\dimit\documents\visual studio 2017\Projects\DefiningClassesExercise\OpinionPoll\obj\Debug\OpinionPoll.pdb

@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefiningClassesExercise", "DefiningClassesExercise\DefiningClassesExercise.csproj", "{B1CA95A9-3EE5-44F3-9DAF-4638AA33EA46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpinionPoll", "OpinionPoll\OpinionPoll.csproj", "{E3500FBC-6629-4565-9C6B-E22604F6174A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateModifier", "DateModifier\DateModifier.csproj", "{17CC09F5-7021-49DE-99AB-096D7EFE4F7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyRoster", "CompanyRoster\CompanyRoster.csproj", "{8620D5BA-CF05-4D26-9C94-E959DCA1496A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedRacing", "SpeedRacing\SpeedRacing.csproj", "{9A0609AB-A1EA-405F-BF53-7D932BB2DB64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RawData", "RawData\RawData.csproj", "{E7E4B60D-BF39-4CFC-B047-FC7B8966E298}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangle Intersection", "Rectangle Intersection\Rectangle Intersection.csproj", "{05317A6E-70B1-4157-9F2D-9C32B7BA8691}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1CA95A9-3EE5-44F3-9DAF-4638AA33EA46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1CA95A9-3EE5-44F3-9DAF-4638AA33EA46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1CA95A9-3EE5-44F3-9DAF-4638AA33EA46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1CA95A9-3EE5-44F3-9DAF-4638AA33EA46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3500FBC-6629-4565-9C6B-E22604F6174A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3500FBC-6629-4565-9C6B-E22604F6174A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3500FBC-6629-4565-9C6B-E22604F6174A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3500FBC-6629-4565-9C6B-E22604F6174A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17CC09F5-7021-49DE-99AB-096D7EFE4F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17CC09F5-7021-49DE-99AB-096D7EFE4F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17CC09F5-7021-49DE-99AB-096D7EFE4F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17CC09F5-7021-49DE-99AB-096D7EFE4F7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8620D5BA-CF05-4D26-9C94-E959DCA1496A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8620D5BA-CF05-4D26-9C94-E959DCA1496A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8620D5BA-CF05-4D26-9C94-E959DCA1496A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8620D5BA-CF05-4D26-9C94-E959DCA1496A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A0609AB-A1EA-405F-BF53-7D932BB2DB64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A0609AB-A1EA-405F-BF53-7D932BB2DB64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A0609AB-A1EA-405F-BF53-7D932BB2DB64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A0609AB-A1EA-405F-BF53-7D932BB2DB64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7E4B60D-BF39-4CFC-B047-FC7B8966E298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7E4B60D-BF39-4CFC-B047-FC7B8966E298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7E4B60D-BF39-4CFC-B047-FC7B8966E298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7E4B60D-BF39-4CFC-B047-FC7B8966E298}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05317A6E-70B1-4157-9F2D-9C32B7BA8691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05317A6E-70B1-4157-9F2D-9C32B7BA8691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05317A6E-70B1-4157-9F2D-9C32B7BA8691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05317A6E-70B1-4157-9F2D-9C32B7BA8691}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

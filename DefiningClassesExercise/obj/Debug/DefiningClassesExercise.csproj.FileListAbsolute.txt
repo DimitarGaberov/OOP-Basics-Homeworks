@@ -1,0 +1,6 @@
+c:\users\dimit\documents\visual studio 2017\Projects\DefiningClassesExercise\DefiningClassesExercise\bin\Debug\DefiningClassesExercise.exe.config
+c:\users\dimit\documents\visual studio 2017\Projects\DefiningClassesExercise\DefiningClassesExercise\bin\Debug\DefiningClassesExercise.exe
+c:\users\dimit\documents\visual studio 2017\Projects\DefiningClassesExercise\DefiningClassesExercise\bin\Debug\DefiningClassesExercise.pdb
+c:\users\dimit\documents\visual studio 2017\Projects\DefiningClassesExercise\DefiningClassesExercise\obj\Debug\DefiningClassesExercise.csprojResolveAssemblyReference.cache
+c:\users\dimit\documents\visual studio 2017\Projects\DefiningClassesExercise\DefiningClassesExercise\obj\Debug\DefiningClassesExercise.exe
+c:\users\dimit\documents\visual studio 2017\Projects\DefiningClassesExercise\DefiningClassesExercise\obj\Debug\DefiningClassesExercise.pdb
